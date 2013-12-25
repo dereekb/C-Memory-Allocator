@@ -3,7 +3,7 @@ C-Memory-Allocator
 
 Created by Derek Burgman on 9/21/2013
 
-C-based memory allocation program that runs a memory test. 
+C-based memory allocation program that runs a memory test using the Ackermann Function (http://en.wikipedia.org/wiki/Ackermann_function).
 
 malloc is performed once when the allocation program itself is initialized. 
 
